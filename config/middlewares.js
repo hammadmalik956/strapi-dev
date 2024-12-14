@@ -12,14 +12,14 @@
                 'data:',
                 'blob:',
                 'dl.airtable.com',
-                'stag-essaysasia-strapi-image-assests-buck.s3.us-west-2.amazonaws.com', // change here
+                'prod-essaysasia-strapi-image-assest-buck.s3.ap-southeast-1.amazonaws.com', // change here
               ],
               'media-src': [
                 "'self'",
                 'data:',
                 'blob:',
                 'dl.airtable.com',
-                'stag-essaysasia-strapi-image-assests-buck.s3.us-west-2.amazonaws.com', // change here
+                'prod-essaysasia-strapi-image-assest-buck.s3.ap-southeast-1.amazonaws.com', // change here
               ],
               upgradeInsecureRequests: null,
             },
